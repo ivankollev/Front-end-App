@@ -1,0 +1,4 @@
+# IntelliJ and/or RubyMine ignores
+.idea/
+node_modules/
+package-lock.json
